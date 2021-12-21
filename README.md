@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi coder, saya adalah mahasiswa Politeknik Negeri Bandung dan ini adalah repository tugas besar saya pada semester 1 tepatnya di mata kuliah Dasar Dasar Pemrograman, tugas besar ini saya kerjakan bersama Irfan Pertrio Nugroho 👋
 
 <!--
 **iqbalalghifary/iqbalalghifary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
